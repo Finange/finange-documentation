@@ -9,3 +9,23 @@
 #### Se você é iniciante, não se preocupe, só seguir o passo a passo abaixo que você vai ser capaz de começar a contribuir com o projeto! 
 
 #### Lembre-se: O projeto foi idealizado pensando em quem quer adquirir conhecimento/experiência, então, sinta-se confortável para tirar suas dúvidas, mandar mensagens para os outros contribuidores, ou subir uma "issue" tirando uma dúvida sua. Não existe dúvida idiota, toda dúvida é válida!
+
+# Sobre
+
+### O projeto Finange é uma aplicação financeira, ou seja um software financeiro, que tem por objetivo de cuidar da vida financeira das pessoas, desde cuidar das suas finanças, fazer calculos de impostos, etc. É como uma "siri financeira", pegou?!
+
+# Tecnologias
+
+### Python - Usado no Bot do Telegram
+### Django Rest Framework - Usado na nossa API
+### HTML, CSS, Javascript - Usado no nosso site
+
+# Como Contribuir
+
+#### Em construção
+
+# Repositorios
+
+### Finange Bot
+### Finange Frontend
+### Finange Core
