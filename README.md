@@ -16,8 +16,8 @@ O projeto Finange é uma aplicação financeira, ou seja um software financeiro,
 
 # Tecnologias
 
-Python - Usado no Bot do Telegram
-Django Rest Framework - Usado na nossa API
+Python - Usado no Bot do Telegram <br>
+Django Rest Framework - Usado na nossa API <br>
 HTML, CSS, Javascript - Usado no nosso site
 
 # Como Contribuir
