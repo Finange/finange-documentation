@@ -26,6 +26,6 @@ HTML, CSS, Javascript - Usado no nosso site
 
 # Repositorios
 
-###<a href="https://github.com/Finange/finange-bot"> Finange Bot </a>
+### <a href="https://github.com/Finange/finange-bot"> Finange Bot </a>
 ### <a href="https://github.com/Finange/finange-front"> Finange Frontend </a>
-###<a href="https://github.com/Finange/core"> Finange Core </a>
+### <a href="https://github.com/Finange/core"> Finange Core </a>
