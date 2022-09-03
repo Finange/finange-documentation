@@ -22,7 +22,7 @@ HTML, CSS, Javascript - Usado no nosso site
 
 # Como Contribuir
 
-#### Em construção
+Primeiro, você precisa fazer o fork do projeto. Tem um botão no lado superior direito desse repositório com a palavra "fork". Clique lá para realizar o fork!
 
 # Repositorios
 
