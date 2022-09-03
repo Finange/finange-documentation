@@ -26,6 +26,8 @@ Primeiro, você precisa fazer o fork do projeto. Tem um botão no lado superior 
 
 Segundo, você entra no projeto que você fez o fork, dentro do seu github pessoal e faz o clone do projeto para sua máquina. Dessa forma, você vai conseguir executar o projeto por conta própria.
 
+Terceiro, você cria uma nova branch para você subir suas atualizações com o comando `git checkout -b <nome-branch>`. Após isso, você pode subir suas atualizações de resolução de bug ou nova feature e abrir um Pull Request.
+
 # Repositorios
 
 ### <a href="https://github.com/Finange/finange-bot"> Finange Bot </a>
