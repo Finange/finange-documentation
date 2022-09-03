@@ -24,6 +24,8 @@ HTML, CSS, Javascript - Usado no nosso site
 
 Primeiro, você precisa fazer o fork do projeto. Tem um botão no lado superior direito desse repositório com a palavra "fork". Clique lá para realizar o fork!
 
+Segundo, você entra no projeto que você fez o fork, dentro do seu github pessoal e faz o clone do projeto para sua máquina. Dessa forma, você vai conseguir executar o projeto por conta própria.
+
 # Repositorios
 
 ### <a href="https://github.com/Finange/finange-bot"> Finange Bot </a>
