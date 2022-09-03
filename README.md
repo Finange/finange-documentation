@@ -35,3 +35,11 @@ Quarto, seu Pull Request será analisado e, se for aprovado, será mergeado para
 ### <a href="https://github.com/Finange/finange-bot"> Finange Bot </a>
 ### <a href="https://github.com/Finange/finange-front"> Finange Frontend </a>
 ### <a href="https://github.com/Finange/core"> Finange Core </a>
+
+# Dúvidas
+
+Se você tiver dúvidas sobre como contribuir, você pode abrir uma issue nesse repositório para tirar sua dúvida ou mandar mensagem dentro do nosso grupo oficial dos contribuidores no Telegram.
+
+Você também pode participar da nossa call dos contribuidores (também no Telegram) que acontece todos os domingos. Lá conversamos sobre o projeto, tiramos as dúvidas dos contribuidores sobre o projeto e sobre código, e estruturamos os próximos passos do projeto. 
+
+Lembre: Você não precisa ser um sênior para participar. Você precisa querer crescer como programador!
