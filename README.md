@@ -28,6 +28,8 @@ Segundo, você entra no projeto que você fez o fork, dentro do seu github pesso
 
 Terceiro, você cria uma nova branch para você subir suas atualizações com o comando `git checkout -b <nome-branch>`. Após isso, você pode subir suas atualizações de resolução de bug ou nova feature e abrir um Pull Request.
 
+Quarto, seu Pull Request será analisado e, se for aprovado, será mergeado para a branch 'main' do projeto principal. Existe a possibilidade de os mantedores do projeto comentarem sobre seu código questionando ele ou sugerindo mudanças. Não se assuste! Isso faz parte do processo do Open Source. Ninguém está aqui pra julgar seu código, e sim para que trabalhemos para criar o melhor código possível, por isso os possíveis comentários!
+
 # Repositorios
 
 ### <a href="https://github.com/Finange/finange-bot"> Finange Bot </a>
